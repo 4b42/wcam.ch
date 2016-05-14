@@ -22,6 +22,9 @@
 # 2016-05-14	Kevin Buehl	created
 #-----------------------------------------------------------------------#
 #apt install ftp
+HOST="ftp.wcam.ch"
+USER=""
+PASS=""
 
 # take picture
 raspistill -o /tmp/current.jpg -w 800 -h 600 -vf -hf -q 100
